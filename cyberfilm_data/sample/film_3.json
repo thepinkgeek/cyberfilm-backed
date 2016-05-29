@@ -1,0 +1,6 @@
+{
+	"name" : "GetNearest",
+	"params" : {
+		"GetFrom": "film_2"
+	}
+}

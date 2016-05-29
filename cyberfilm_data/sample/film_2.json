@@ -1,0 +1,6 @@
+{
+	"name" : "AcquireNode",
+	"params" : {
+		"vertex" : "1"
+	}
+}
